@@ -1,6 +1,5 @@
 <h1>Hi, I'm Seela! <br/><a href="https://github.com/seelasharon">Juniour Web Developer</a>, 
 
-<h2>👨‍💻 Juniour Web Developer Projects:</h2>
 
 
 
