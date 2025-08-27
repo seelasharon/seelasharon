@@ -1,6 +1,6 @@
-<h1>Hi, I'm Seela! <br/><a href="https://github.com/seelasharon">Programmer</a>, 
+<h1>Hi, I'm Seela! <br/><a href="https://github.com/seelasharon">Juniour Web Developer</a>, 
 
-<h2>👨‍💻 Juniour wWeb Devloper Projects:</h2>
+<h2>👨‍💻 Juniour Web Devloper Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/seelasharon/Algorithms-Practice)
