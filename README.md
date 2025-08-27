@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Juniour Web Developer Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://docs.google.com/presentation/d/1GpoeDgBPVmMA0RB5al6uyYTJNONUs_cPkOggwi-PvBs/edit?usp=sharing)
+
 
 
 [X]: https://x.com/sharonshukuru58?t=3SxwHfDglsWYt9UDp34hLA&s=09
